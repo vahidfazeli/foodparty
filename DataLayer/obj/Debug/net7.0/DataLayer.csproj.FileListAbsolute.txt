@@ -1,0 +1,12 @@
+/home/vahid/Projects/net_framework/foodparty/DataLayer/bin/Debug/net7.0/DataLayer.deps.json
+/home/vahid/Projects/net_framework/foodparty/DataLayer/bin/Debug/net7.0/DataLayer.dll
+/home/vahid/Projects/net_framework/foodparty/DataLayer/bin/Debug/net7.0/DataLayer.pdb
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.csproj.AssemblyReference.cache
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfoInputs.cache
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfo.cs
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.csproj.CoreCompileInputs.cache
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.dll
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/refint/DataLayer.dll
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/DataLayer.pdb
+/home/vahid/Projects/net_framework/foodparty/DataLayer/obj/Debug/net7.0/ref/DataLayer.dll

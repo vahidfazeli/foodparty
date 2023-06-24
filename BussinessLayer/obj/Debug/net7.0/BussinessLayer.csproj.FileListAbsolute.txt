@@ -1,0 +1,15 @@
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/bin/Debug/net7.0/BussinessLayer.deps.json
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/bin/Debug/net7.0/BussinessLayer.dll
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/bin/Debug/net7.0/BussinessLayer.pdb
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/bin/Debug/net7.0/DataLayer.dll
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/bin/Debug/net7.0/DataLayer.pdb
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.csproj.AssemblyReference.cache
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.AssemblyInfoInputs.cache
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.AssemblyInfo.cs
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.csproj.CoreCompileInputs.cache
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.csproj.CopyComplete
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.dll
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/refint/BussinessLayer.dll
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/BussinessLayer.pdb
+/home/vahid/Projects/net_framework/foodparty/BussinessLayer/obj/Debug/net7.0/ref/BussinessLayer.dll
